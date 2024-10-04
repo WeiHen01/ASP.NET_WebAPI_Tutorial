@@ -1,0 +1,28 @@
+GET http://localhost:9999
+
+GET http://localhost:9999/games
+
+GET http://localhost:9999/games/2
+
+POST http://localhost:9999/games
+Content-Type: application/json
+
+{
+    "name": "Minecraft",
+    "genre": "Kids and Family",
+    "price": 20.88,
+    "releaseDate": "2011-11-18"
+}
+
+
+PUT http://localhost:9999/games/1
+Content-Type: application/json
+
+{
+    "name": "Black Myth Wukong Rising",
+    "genre": "RPG",
+    "price": 229.99,
+    "releaseDate": "2024-08-20"
+}
+
+DELETE http://localhost:9999/games/2
