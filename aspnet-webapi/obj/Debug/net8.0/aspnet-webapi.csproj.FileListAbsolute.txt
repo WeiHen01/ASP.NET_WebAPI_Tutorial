@@ -23,3 +23,4 @@ C:\Users\Edgar\Downloads\Learning\Web\aspnet-webapi\aspnet-webapi\obj\Debug\net8
 C:\Users\Edgar\Downloads\Learning\Web\aspnet-webapi\aspnet-webapi\obj\Debug\net8.0\aspnet-webapi.pdb
 C:\Users\Edgar\Downloads\Learning\Web\aspnet-webapi\aspnet-webapi\obj\Debug\net8.0\aspnet-webapi.genruntimeconfig.cache
 C:\Users\Edgar\Downloads\Learning\Web\aspnet-webapi\aspnet-webapi\obj\Debug\net8.0\ref\aspnet-webapi.dll
+C:\Users\Edgar\Downloads\Learning\Web\aspnet-webapi\aspnet-webapi\obj\Debug\net8.0\aspnet-webapi.sourcelink.json
